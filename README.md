@@ -35,7 +35,7 @@
 
 <td valign="top" align="center" width="35%">
 
-<br><br><br>
+<br><br>
 
 <img height="200" src="./assets/sumit-sdet.png" alt="Sumit Singh - SDET" />
 
@@ -76,9 +76,6 @@
 <br>Kotlin
 </td>
 
-</tr>
-
-<tr>
 
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium"/>
