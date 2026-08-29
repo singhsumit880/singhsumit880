@@ -12,7 +12,7 @@
 
 </div>
 
-<img align="right" height="200" style="margin-top: 25px;" src="./assets/sumit-sdet.png" alt="Sumit Singh - SDET" />
+<img align="right" height="200" style="margin-top: 8%;" src="./assets/sumit-sdet.png" alt="Sumit Singh - SDET" />
 
 ## 👨‍💻 About Me
 
