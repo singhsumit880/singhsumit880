@@ -4,11 +4,11 @@
 
 ### Senior QA Engineer · SDET · Test Automation Engineer
 
-I build **scalable test automation frameworks, quality engineering systems, and developer productivity tools**, with a strong focus on automation, CI/CD, and engineering efficiency.
+**Building reliable software through automation, quality engineering & developer tooling.**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge)](https://singhsumit880.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhsumit880)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhsumit880)
+[🌐 Portfolio](https://singhsumit880.github.io/) ·
+[💼 LinkedIn](https://www.linkedin.com/in/singhsumit880) ·
+[💻 GitHub](https://github.com/singhsumit880)
 
 </div>
 
@@ -22,7 +22,7 @@ I'm a **Senior QA Engineer currently working at Vyapar**, with **5+ years of exp
 
 I work on complex **commerce and accounting workflows**, including invoicing, payments, inventory, GST, synchronization, and other business-critical flows for a billing platform used by SMBs.
 
-My focus is not just on writing test cases, but on building **automation systems, quality engineering practices, and developer productivity tools** that make testing faster, reliable, and scalable.
+My focus goes beyond writing test cases — I enjoy building **automation systems, testing frameworks, developer tools, and engineering practices** that make software faster to validate, easier to debug, and more reliable to ship.
 
 - 🎭 Building **Playwright automation for Electron desktop applications**
 - 🧪 Experienced across **UI, API, database, mobile, performance, and E2E testing**
@@ -31,7 +31,7 @@ My focus is not just on writing test cases, but on building **automation systems
 - ⚡ Working on **parallel test execution and CI/CD pipelines**
 - 🤖 Exploring **AI-assisted test generation and intelligent QA workflows**
 - 📱 Android developer with experience in **Kotlin & Jetpack Compose**
-- 🛠️ Building internal tools to improve **QA and developer productivity**
+- 🛠️ Building tools that improve **QA and developer productivity**
 - 🔍 Strong interest in **test architecture, debugging, data validation, and automation engineering**
 
 > **Automate what is repetitive. Engineer what is scalable. Test what matters.**
@@ -44,31 +44,19 @@ My focus is not just on writing test cases, but on building **automation systems
 
 ### Automation & Testing
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+**Playwright** · **Selenium** · **Appium** · **JMeter**
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Python** · **Java** · **Kotlin** · **JavaScript** · **TypeScript**
 
 ### DevOps & CI/CD
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Git** · **GitHub Actions** · **Jenkins** · **Docker**
 
 ### Database & Tools
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+**SQLite** · **SQL** · **Excel**
 
 ---
 
@@ -76,23 +64,25 @@ My focus is not just on writing test cases, but on building **automation systems
 
 ### 🎭 Playwright + Electron Automation
 
-Building scalable automation solutions for Electron desktop applications with:
+Building scalable automation solutions for desktop applications with:
 
-- 📐 Page Object Model
-- ⚡ Parallel test execution
-- 🪟 Multi-window and multi-page handling
-- 🎯 Stable locator strategies
-- 🗄️ Database-backed assertions
-- 📁 File-system validation
-- 📸 Screenshots, traces & diagnostics
-- 📊 Detailed test reporting
-- 🔄 CI/CD integration
+- Page Object Model
+- Parallel test execution
+- Multi-window and multi-page handling
+- Stable locator strategies
+- Database-backed assertions
+- File-system validation
+- Screenshots & traces
+- Detailed test reporting
+- CI/CD integration
 
-The goal is to create automation that is **maintainable, debuggable, and fast enough to run continuously in CI**.
+The goal is to build automation that is **maintainable, debuggable, reliable, and fast enough to run continuously in CI**.
+
+---
 
 ### 🗄️ QA & Developer Productivity Tools
 
-I enjoy building tools that eliminate repetitive QA and debugging work.
+I enjoy turning repetitive QA and debugging tasks into engineering tools.
 
 Some areas I've worked on:
 
@@ -107,9 +97,11 @@ Some areas I've worked on:
 
 > **If a QA engineer has to repeat the same task frequently, it should probably be automated.**
 
+---
+
 ### 🤖 AI-Assisted QA
 
-I'm exploring practical applications of AI in software quality engineering, particularly around:
+Exploring practical applications of AI in software quality engineering:
 
 - Automated test generation
 - Test case optimization
@@ -119,27 +111,19 @@ I'm exploring practical applications of AI in software quality engineering, part
 - Application understanding
 - Improving QA workflows
 
-The objective is not to replace testing expertise, but to **amplify what QA engineers can accomplish**.
+The goal is not to replace testing expertise, but to **amplify what QA engineers can accomplish**.
+
+---
 
 ### 📱 Android Development
 
 I've also spent significant time building Android applications.
 
-**Technology focus:** `Kotlin` · `Jetpack Compose` · `SQLite` · `Android`
+**Kotlin · Jetpack Compose · SQLite · Android**
 
 I enjoy combining my development background with QA engineering to build tools from both perspectives:
 
 **Developer + Tester = Better Engineering Tools**
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhsumit880&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
-
-</div>
 
 ---
 
@@ -166,7 +150,7 @@ The best automation is not the one with the most tests.
 
 It's the one that provides:
 
-**Fast Feedback + Reliable Results + Easy Debugging + Low Maintenance**
+**Fast Feedback · Reliable Results · Easy Debugging · Low Maintenance**
 
 ### My Engineering Loop
 
@@ -174,7 +158,7 @@ It's the one that provides:
 
 ---
 
-## 🎯 What I'm Interested In
+## 🎯 Currently Interested In
 
 **Playwright · Electron Testing · SDET Architecture · CI/CD · Database-driven Testing · AI-assisted QA · Developer Productivity · Android Development**
 
@@ -184,9 +168,11 @@ It's the one that provides:
 
 Always open to conversations around **Test Automation · Playwright · Electron Testing · SDET Architecture · AI for QA · CI/CD · Developer Productivity**
 
-🌐 [Portfolio](https://singhsumit880.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/singhsumit880) · 💻 [GitHub](https://github.com/singhsumit880)
-
 <div align="center">
+
+[🌐 Portfolio](https://singhsumit880.github.io/) ·
+[💼 LinkedIn](https://www.linkedin.com/in/singhsumit880) ·
+[💻 GitHub](https://github.com/singhsumit880)
 
 ### ⚡ Build. Automate. Validate. Improve.
 
