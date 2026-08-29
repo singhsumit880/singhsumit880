@@ -11,8 +11,9 @@
 [GitHub](https://github.com/singhsumit880)
 
 </div>
-
-<img align="right" height="200" style="margin-top: 8%;" src="./assets/sumit-sdet.png" alt="Sumit Singh - SDET" />
+<table>
+<tr>
+<td valign="top">
 
 ## 👨‍💻 About Me
 
@@ -26,7 +27,17 @@
 
 > **Automate what is repetitive. Engineer what is scalable.**
 
-<br clear="right"/>
+</td>
+
+<td width="28%" valign="top" align="center">
+
+<br><br>
+
+<img height="200" src="./assets/sumit-sdet.png" alt="Sumit Singh - SDET" />
+
+</td>
+</tr>
+</table>
 
 ---
 
