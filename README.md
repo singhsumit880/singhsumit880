@@ -14,7 +14,7 @@ I build **scalable test automation frameworks, quality engineering systems, and 
 
 ---
 
-<img align="right" height="320" src="./assets/sumit-sdet.png" alt="Sumit Singh - SDET" />
+<img align="right" height="300" src="./assets/sumit-sdet.png" alt="Sumit Singh - SDET" />
 
 ## 👨‍💻 About Me
 
@@ -90,8 +90,6 @@ Building scalable automation solutions for Electron desktop applications with:
 
 The goal is to create automation that is **maintainable, debuggable, and fast enough to run continuously in CI**.
 
----
-
 ### 🗄️ QA & Developer Productivity Tools
 
 I enjoy building tools that eliminate repetitive QA and debugging work.
@@ -109,8 +107,6 @@ Some areas I've worked on:
 
 > **If a QA engineer has to repeat the same task frequently, it should probably be automated.**
 
----
-
 ### 🤖 AI-Assisted QA
 
 I'm exploring practical applications of AI in software quality engineering, particularly around:
@@ -125,15 +121,11 @@ I'm exploring practical applications of AI in software quality engineering, part
 
 The objective is not to replace testing expertise, but to **amplify what QA engineers can accomplish**.
 
----
-
 ### 📱 Android Development
 
-Before and alongside my QA journey, I've spent significant time building Android applications.
+I've also spent significant time building Android applications.
 
-**Technology focus:**
-
-`Kotlin` · `Jetpack Compose` · `SQLite` · `Android`
+**Technology focus:** `Kotlin` · `Jetpack Compose` · `SQLite` · `Android`
 
 I enjoy combining my development background with QA engineering to build tools from both perspectives:
 
@@ -141,27 +133,11 @@ I enjoy combining my development background with QA engineering to build tools f
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=singhsumit880&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=singhsumit880&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=singhsumit880&theme=dark&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=singhsumit880&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhsumit880&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
@@ -177,54 +153,6 @@ I enjoy combining my development background with QA engineering to build tools f
 | 📱 [**Universal APK Generator**](https://github.com/singhsumit880/Universal-APK-Generator) | Utility for simplifying Android APK generation workflows |
 | 🗂️ **DB Explorer** | Published Android database viewer with SQLite support, SQL editor, autocomplete, ER diagram visualization, and encrypted database support |
 | 🌐 [**Portfolio**](https://singhsumit880.github.io/) | Personal portfolio containing projects, experience, and technical work |
-
----
-
-## 🧠 Areas of Expertise
-
-```text
-Quality Engineering
-│
-├── Test Automation
-│   ├── Playwright
-│   ├── Selenium
-│   ├── Electron
-│   └── Mobile Automation
-│
-├── Testing
-│   ├── UI / API Testing
-│   ├── Database Testing
-│   ├── E2E Testing
-│   ├── Integration Testing
-│   └── Regression Testing
-│
-├── Framework Engineering
-│   ├── Page Object Model
-│   ├── Parallel Execution
-│   ├── Reporting
-│   ├── Test Architecture
-│   └── Automation Utilities
-│
-├── Data Validation
-│   ├── SQLite
-│   ├── SQL
-│   ├── Database Comparison
-│   └── Test Data Validation
-│
-├── Performance
-│   └── JMeter
-│
-├── DevOps
-│   ├── GitHub Actions
-│   ├── Jenkins
-│   ├── Docker
-│   └── CI/CD
-│
-└── Android Development
-    ├── Kotlin
-    ├── Jetpack Compose
-    └── SQLite
-```
 
 ---
 
@@ -248,17 +176,7 @@ It's the one that provides:
 
 ## 🎯 What I'm Interested In
 
-I'm particularly interested in:
-
-- 🎭 Playwright & advanced automation architecture
-- 🖥️ Electron desktop application testing
-- 🏗️ SDET framework design
-- ⚡ CI/CD & parallel test execution
-- 🗄️ Database-driven testing
-- 🤖 AI-assisted QA
-- 🛠️ Developer productivity tools
-- 📱 Android development
-- 🔍 Quality engineering practices
+**Playwright · Electron Testing · SDET Architecture · CI/CD · Database-driven Testing · AI-assisted QA · Developer Productivity · Android Development**
 
 ---
 
